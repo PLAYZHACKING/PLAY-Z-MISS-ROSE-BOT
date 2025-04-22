@@ -1,8 +1,8 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# [PLAY-Z GROUP MANEGER BOT](https://t.me/MissRose_bot)
 
 ### Deploy
 
-[![Deploy](https://render.com)
+[![Deploy](https://render.com/)
 
 ### Credits
 
